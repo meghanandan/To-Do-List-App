@@ -25,19 +25,19 @@ Follow these instructions to set up and run the project on your local machine.
    git clone https://github.com/meghanandan/todo-list-app.git
    cd todo-list-app
 
-### Install dependencies:
-      ```bash
-      npm install
-      # or
-      yarn install
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
 
-### Start the development server:
-      ```bash
-      npm start
-      # or
-      yarn start
+3. Start the development server:
+   ```bash
+   npm start
+   # or
+   yarn start
 
-Open your browser and navigate to http://localhost:3000.
+### Open your browser and navigate to http://localhost:3000.
 
 ## Usage
    1. To add a new task, type the task description in the input field and click the "Add Task" button.
