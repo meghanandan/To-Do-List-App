@@ -45,5 +45,5 @@ Follow these instructions to set up and run the project on your local machine.
    3. To delete a task, click the "Delete" button next to the task.
 
 ## Built With
-   React.js - A JavaScript library for building user interfaces
-   Bootstrap - The most popular CSS framework for developing responsive, mobile-first websites
+   1. React.js - A JavaScript library for building user interfaces
+   2. Bootstrap - The most popular CSS framework for developing responsive, mobile-first websites
