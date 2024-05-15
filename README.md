@@ -26,16 +26,16 @@ Follow these instructions to set up and run the project on your local machine.
    cd todo-list-app
 
 ### Install dependencies:
-   ```bash
-   npm install
-   # or
-   yarn install
+      ```bash
+      npm install
+      # or
+      yarn install
 
 ### Start the development server:
-   ```bash
-   npm start
-   # or
-   yarn start
+      ```bash
+      npm start
+      # or
+      yarn start
 
 Open your browser and navigate to http://localhost:3000.
 
