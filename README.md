@@ -26,15 +26,24 @@ Follow these instructions to set up and run the project on your local machine.
    cd todo-list-app
 
 ### Install dependencies:
-
-npm install
-# or
-yarn install
+   ```bash
+   npm install
+   # or
+   yarn install
 
 ### Start the development server:
+   ```bash
+   npm start
+   # or
+   yarn start
 
-npm start
-# or
-yarn start
+Open your browser and navigate to http://localhost:3000.
 
-# Open your browser and navigate to http://localhost:3000.
+## Usage
+   1. To add a new task, type the task description in the input field and click the "Add Task" button.
+   2. To mark a task as complete, click on the task description.
+   3. To delete a task, click the "Delete" button next to the task.
+
+## Built With
+   React.js - A JavaScript library for building user interfaces
+   Bootstrap - The most popular CSS framework for developing responsive, mobile-first websites
